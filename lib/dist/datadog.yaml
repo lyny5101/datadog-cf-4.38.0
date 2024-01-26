@@ -7,7 +7,7 @@ cloud_foundry_buildpack: true
 # The Datadog api key to associate your Agent's data with your organization.
 # Can be found here:
 # https://app.datadoghq.com/account/settings
-api_key: 1683ce5dcd74db658b24d4cb9a8578bc
+api_key: 
 # If you need a proxy to connect to the Internet, provide it here (default:
 # disabled). You can use the 'no_proxy' list to specify hosts that should bypass the
 # proxy. These settings might impact your checks requests, please refer to the
